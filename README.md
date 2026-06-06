@@ -16,4 +16,4 @@ The free use of this repository is reserved exclusively for academic and persona
 
 If you represent an academy, institution, publisher, or wish to use these summaries and LaTeX codes for a commercial project or for-profit material, **you must acquire a commercial license**.
 
-To discuss terms, request commercial use permissions, and inquire about rates, please contact me directly at: **sebastianlautarosalinas@gmail.com**
+To discuss terms, request commercial use permissions, and inquire about rates, please contact me directly at: **sebastian71421@gmail.com**
